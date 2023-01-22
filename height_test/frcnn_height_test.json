@@ -1,0 +1,554 @@
+[
+  {
+    "filename": "frame000000.png",
+    "bb": []
+  },
+  {
+    "filename": "frame000001.png",
+    "bb": [
+      {
+        "xmin": 31,
+        "ymin": 0,
+        "xmax": 95,
+        "ymax": 21,
+        "probability": 0.9348750114440918,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 212,
+        "ymin": 84,
+        "xmax": 269,
+        "ymax": 162,
+        "probability": 0.8172910213470459,
+        "Class": "truck",
+        "id": 7
+      }
+    ]
+  },
+  {
+    "filename": "frame000002.png",
+    "bb": [
+      {
+        "xmin": 308,
+        "ymin": 2,
+        "xmax": 347,
+        "ymax": 58,
+        "probability": 0.8443862795829773,
+        "Class": "car",
+        "id": 2
+      }
+    ]
+  },
+  {
+    "filename": "frame000003.png",
+    "bb": []
+  },
+  {
+    "filename": "frame000004.png",
+    "bb": [
+      {
+        "xmin": 287,
+        "ymin": 8,
+        "xmax": 348,
+        "ymax": 70,
+        "probability": 0.8030369877815247,
+        "Class": "traffic light",
+        "id": 9
+      }
+    ]
+  },
+  {
+    "filename": "frame000005.png",
+    "bb": []
+  },
+  {
+    "filename": "frame000006.png",
+    "bb": [
+      {
+        "xmin": 199,
+        "ymin": 115,
+        "xmax": 237,
+        "ymax": 171,
+        "probability": 0.8158502578735352,
+        "Class": "traffic light",
+        "id": 9
+      }
+    ]
+  },
+  {
+    "filename": "frame000007.png",
+    "bb": []
+  },
+  {
+    "filename": "frame000008.png",
+    "bb": []
+  },
+  {
+    "filename": "frame000009.png",
+    "bb": [
+      {
+        "xmin": 232,
+        "ymin": 165,
+        "xmax": 284,
+        "ymax": 255,
+        "probability": 0.8780252933502197,
+        "Class": "truck",
+        "id": 7
+      }
+    ]
+  },
+  {
+    "filename": "frame000010.png",
+    "bb": [
+      {
+        "xmin": 224,
+        "ymin": 188,
+        "xmax": 283,
+        "ymax": 283,
+        "probability": 0.9331330060958862,
+        "Class": "truck",
+        "id": 7
+      }
+    ]
+  },
+  {
+    "filename": "frame000011.png",
+    "bb": []
+  },
+  {
+    "filename": "frame000012.png",
+    "bb": [
+      {
+        "xmin": 212,
+        "ymin": 246,
+        "xmax": 266,
+        "ymax": 350,
+        "probability": 0.9151098728179932,
+        "Class": "truck",
+        "id": 7
+      }
+    ]
+  },
+  {
+    "filename": "frame000013.png",
+    "bb": [
+      {
+        "xmin": 340,
+        "ymin": 4,
+        "xmax": 468,
+        "ymax": 81,
+        "probability": 0.9377574324607849,
+        "Class": "airplane",
+        "id": 4
+      },
+      {
+        "xmin": 181,
+        "ymin": 81,
+        "xmax": 194,
+        "ymax": 105,
+        "probability": 0.8620635867118835,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 209,
+        "ymin": 279,
+        "xmax": 265,
+        "ymax": 389,
+        "probability": 0.83100825548172,
+        "Class": "truck",
+        "id": 7
+      }
+    ]
+  },
+  {
+    "filename": "frame000014.png",
+    "bb": []
+  },
+  {
+    "filename": "frame000015.png",
+    "bb": [
+      {
+        "xmin": 186,
+        "ymin": 93,
+        "xmax": 200,
+        "ymax": 118,
+        "probability": 0.9528743028640747,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 363,
+        "ymin": 4,
+        "xmax": 497,
+        "ymax": 78,
+        "probability": 0.8821366429328918,
+        "Class": "truck",
+        "id": 7
+      },
+      {
+        "xmin": 315,
+        "ymin": 14,
+        "xmax": 325,
+        "ymax": 37,
+        "probability": 0.8520469665527344,
+        "Class": "person",
+        "id": 0
+      }
+    ]
+  },
+  {
+    "filename": "frame000016.png",
+    "bb": [
+      {
+        "xmin": 357,
+        "ymin": 5,
+        "xmax": 504,
+        "ymax": 103,
+        "probability": 0.9067316651344299,
+        "Class": "airplane",
+        "id": 4
+      },
+      {
+        "xmin": 390,
+        "ymin": 240,
+        "xmax": 400,
+        "ymax": 263,
+        "probability": 0.886691689491272,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 222,
+        "ymin": 372,
+        "xmax": 286,
+        "ymax": 477,
+        "probability": 0.8110808730125427,
+        "Class": "truck",
+        "id": 7
+      }
+    ]
+  },
+  {
+    "filename": "frame000017.png",
+    "bb": [
+      {
+        "xmin": 181,
+        "ymin": 155,
+        "xmax": 195,
+        "ymax": 178,
+        "probability": 0.8513440489768982,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 380,
+        "ymin": 51,
+        "xmax": 513,
+        "ymax": 136,
+        "probability": 0.8492565751075745,
+        "Class": "truck",
+        "id": 7
+      },
+      {
+        "xmin": 320,
+        "ymin": 62,
+        "xmax": 330,
+        "ymax": 86,
+        "probability": 0.8077524900436401,
+        "Class": "person",
+        "id": 0
+      }
+    ]
+  },
+  {
+    "filename": "frame000018.png",
+    "bb": [
+      {
+        "xmin": 238,
+        "ymin": 280,
+        "xmax": 251,
+        "ymax": 299,
+        "probability": 0.8742511868476868,
+        "Class": "traffic light",
+        "id": 9
+      }
+    ]
+  },
+  {
+    "filename": "frame000019.png",
+    "bb": [
+      {
+        "xmin": 327,
+        "ymin": 133,
+        "xmax": 337,
+        "ymax": 155,
+        "probability": 0.8929290771484375,
+        "Class": "person",
+        "id": 0
+      }
+    ]
+  },
+  {
+    "filename": "frame000020.png",
+    "bb": [
+      {
+        "xmin": 409,
+        "ymin": 227,
+        "xmax": 421,
+        "ymax": 251,
+        "probability": 0.9706224203109741,
+        "Class": "person",
+        "id": 0
+      }
+    ]
+  },
+  {
+    "filename": "frame000021.png",
+    "bb": [
+      {
+        "xmin": 423,
+        "ymin": 288,
+        "xmax": 435,
+        "ymax": 309,
+        "probability": 0.9542221426963806,
+        "Class": "person",
+        "id": 0
+      }
+    ]
+  },
+  {
+    "filename": "frame000022.png",
+    "bb": [
+      {
+        "xmin": 435,
+        "ymin": 368,
+        "xmax": 449,
+        "ymax": 387,
+        "probability": 0.9538865685462952,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 157,
+        "ymin": 18,
+        "xmax": 638,
+        "ymax": 411,
+        "probability": 0.8329693675041199,
+        "Class": "airplane",
+        "id": 4
+      }
+    ]
+  },
+  {
+    "filename": "frame000023.png",
+    "bb": [
+      {
+        "xmin": 281,
+        "ymin": 0,
+        "xmax": 342,
+        "ymax": 49,
+        "probability": 0.9857902526855469,
+        "Class": "traffic light",
+        "id": 9
+      },
+      {
+        "xmin": 189,
+        "ymin": 364,
+        "xmax": 207,
+        "ymax": 387,
+        "probability": 0.9281470775604248,
+        "Class": "kite",
+        "id": 37
+      }
+    ]
+  },
+  {
+    "filename": "frame000024.png",
+    "bb": [
+      {
+        "xmin": 398,
+        "ymin": 1,
+        "xmax": 408,
+        "ymax": 25,
+        "probability": 0.9498275518417358,
+        "Class": "person",
+        "id": 0
+      }
+    ]
+  },
+  {
+    "filename": "frame000025.png",
+    "bb": [
+      {
+        "xmin": 385,
+        "ymin": 121,
+        "xmax": 394,
+        "ymax": 145,
+        "probability": 0.9580279588699341,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 398,
+        "ymin": 136,
+        "xmax": 408,
+        "ymax": 159,
+        "probability": 0.952363908290863,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 393,
+        "ymin": 78,
+        "xmax": 403,
+        "ymax": 105,
+        "probability": 0.864827036857605,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 381,
+        "ymin": 89,
+        "xmax": 390,
+        "ymax": 115,
+        "probability": 0.8297123312950134,
+        "Class": "person",
+        "id": 0
+      }
+    ]
+  },
+  {
+    "filename": "frame000026.png",
+    "bb": [
+      {
+        "xmin": 399,
+        "ymin": 178,
+        "xmax": 410,
+        "ymax": 203,
+        "probability": 0.9685797691345215,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 385,
+        "ymin": 162,
+        "xmax": 394,
+        "ymax": 186,
+        "probability": 0.9613624215126038,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 334,
+        "ymin": 118,
+        "xmax": 344,
+        "ymax": 139,
+        "probability": 0.893221914768219,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 381,
+        "ymin": 129,
+        "xmax": 390,
+        "ymax": 153,
+        "probability": 0.8685984015464783,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 343,
+        "ymin": 138,
+        "xmax": 350,
+        "ymax": 161,
+        "probability": 0.8276951909065247,
+        "Class": "person",
+        "id": 0
+      }
+    ]
+  },
+  {
+    "filename": "frame000027.png",
+    "bb": [
+      {
+        "xmin": 333,
+        "ymin": 137,
+        "xmax": 340,
+        "ymax": 157,
+        "probability": 0.9602407217025757,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 400,
+        "ymin": 204,
+        "xmax": 410,
+        "ymax": 228,
+        "probability": 0.9433934092521667,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 385,
+        "ymin": 185,
+        "xmax": 394,
+        "ymax": 209,
+        "probability": 0.9224972724914551,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 381,
+        "ymin": 150,
+        "xmax": 389,
+        "ymax": 173,
+        "probability": 0.8963819146156311,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 396,
+        "ymin": 138,
+        "xmax": 403,
+        "ymax": 162,
+        "probability": 0.8088905215263367,
+        "Class": "person",
+        "id": 0
+      }
+    ]
+  },
+  {
+    "filename": "frame000028.png",
+    "bb": [
+      {
+        "xmin": 407,
+        "ymin": 354,
+        "xmax": 419,
+        "ymax": 381,
+        "probability": 0.9851438403129578,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 390,
+        "ymin": 333,
+        "xmax": 400,
+        "ymax": 359,
+        "probability": 0.9686836004257202,
+        "Class": "person",
+        "id": 0
+      },
+      {
+        "xmin": 334,
+        "ymin": 279,
+        "xmax": 342,
+        "ymax": 300,
+        "probability": 0.9461215734481812,
+        "Class": "person",
+        "id": 0
+      }
+    ]
+  }
+]
